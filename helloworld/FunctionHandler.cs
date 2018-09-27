@@ -6,7 +6,7 @@ namespace Function
     public class FunctionHandler
     {
         public string Handle(string input) {
-            return $"Hi, das war deine Eingabe: {input}\n Test 2";
+            return $"Hi, das war deine Eingabe: {input}\n Test 3";
         }
     }
 }
